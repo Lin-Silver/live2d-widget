@@ -1,6 +1,6 @@
 {
   "name": "live2d-widgets",
-  "version": "0.9.0",
+  "version": "0.2",
   "description": "Live2D widget for web pages",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -12,17 +12,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stevenjoezhang/live2d-widget.git"
+    "url": "git+https://github.com/Lin-Silver/live2d-widget.git"
   },
   "keywords": [
     "Live2d"
   ],
-  "author": "stevenjoezhang <stevenjoezhang@gmail.com>",
+  "author": "Lin-Silver <LinSilver54@gmail.com>",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/stevenjoezhang/live2d-widget/issues"
+    "url": "https://github.com/Lin-Silver/live2d-widget/issues"
   },
-  "homepage": "https://github.com/stevenjoezhang/live2d-widget#readme",
+  "homepage": "https://github.com/sLin-Silver/live2d-widget#readme",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.7.2"
   },
