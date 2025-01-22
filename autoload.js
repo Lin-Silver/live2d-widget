@@ -35,7 +35,8 @@ if (screen.width >= 768) {
 		initWidget({
 			waifuPath: live2d_path + "waifu-tips.json",
 			//apiPath: "https://live2d.fghrsh.net/api/",
-			cdnPath: "https://fastly.jsdelivr.net/gh/Lin-Silver/live2d-api/",
+			cdnPath: "https://github.com/Lin-Silver/live2d_api/tree/main/",
+			//cdnPath: "https://fastly.jsdelivr.net/gh/Lin-Silver/live2d-api/",
 			tools: ["hitokoto", "asteroids", "switch-model", "switch-texture", "photo", "info", "quit"]
 		});
 	});
